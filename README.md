@@ -1,1 +1,1 @@
-# 42content
+# 42contentの内容です
